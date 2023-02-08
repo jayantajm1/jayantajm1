@@ -50,6 +50,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jayantajm1&show_icons=true&locale=en" alt="jayantajm1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantajm1&" alt="jayantajm1" /></p>
-[![An image of @jayantajm1's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jayantajm1)](https://holopin.io/@jayantajm1)
+(https://holopin.me/jayantajm1)](https://holopin.io/@jayantajm1)
 <p1>lets collaborate </p1>
 
