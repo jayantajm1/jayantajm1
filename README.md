@@ -1,3 +1,4 @@
+![logo](https://github.com/jayantajm1/jayantajm1/blob/main/pexels-photo-11035547.webp)
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Jayanta Mardi</h1>
