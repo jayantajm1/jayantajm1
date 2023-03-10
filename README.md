@@ -16,7 +16,7 @@
 
 - 👯 I’m looking to collaborate on [TriToyBox](https://github.com/jayantajm1/TriToyBox)
 
-- 👨‍💻 All of my projects are available at [https://github.com/jayantajm1/Jayanta.github.io](https://github.com/jayantajm1/Jayanta.github.io)
+- 👨‍💻 All of my projects are available at [https://github.com/jayantajm1?tab=repositories](https://github.com/jayantajm1?tab=repositories)
 
 - 📝 I regularly write articles on [https://www.facebook.com/jayantajm1](https://www.facebook.com/jayantajm1)
 
