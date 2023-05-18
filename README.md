@@ -52,3 +52,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jayantajm1&" alt="jayantajm1" /></p>
 https://holopin.me/jayantajm1)](https://holopin.io/@jayantajm1
 
+[![jayantajm1's GitHub | Stats](https://stats.quine.sh/jayantajm1/github?theme=light)](https://quine.sh)
