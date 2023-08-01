@@ -53,3 +53,20 @@
 https://holopin.me/jayantajm1)](https://holopin.io/@jayantajm1
 
 [![jayantajm1's GitHub | Stats](https://stats.quine.sh/jayantajm1/github?theme=light)](https://quine.sh)
+"root":{
+"@context":"https://w3id.org/openbadges/v2"
+"type":"Assertion"
+"id":"https://verified.cv:3000/v2/ims/17572724050855"
+"badge":"https://verified.cv:3000/v2/ims/badgeClass/17572724050855"
+"image":"https://verified.cv:3000/v2/ims/image/17572724050855"
+"verification":{
+"type":"HostedBadge"
+}
+"issuedOn":"2023-07-24T12:08:13.238Z"
+"recipient":{
+"type":"email"
+"hashed":false
+"identity":"swetarajak1127@gmail.com"
+}
+"evidence":[]
+}
