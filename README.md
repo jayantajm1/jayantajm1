@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [ePanchayet](https://github.com/sankalparoy/wb_e_panchayet)
 
-- 🌱 I’m currently learning **Reactjs**
+- 🌱 I’m currently learning **Angular,ASP.NET**
 
 - 👯 I’m looking to collaborate on [TriToyBox](https://github.com/jayantajm1/TriToyBox)
 
