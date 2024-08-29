@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/jayantajm1" target="blank"><img src="https://img.shields.io/twitter/follow/jayantajm1?logo=twitter&style=for-the-badge" alt="jayantajm1" /></a> </p>
 
-- 🔭 I’m currently working on [TriToyBox](https://github.com/jayantajm1/TriToyBox)
+- 🔭 I’m currently working on [TriToyBox](https://github.com/sankalparoy/wb_e_panchayet)
 
 - 🌱 I’m currently learning **Reactjs**
 
