@@ -35,7 +35,7 @@
 <a href="https://linkedin.com/in/mardijm" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayantajm1/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mardijm" height="30" width="40" /></a>
 <a href="https://fb.com/jayantajm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jayantajm1" height="30" width="40" /></a>
 <a href="https://instagram.com/jayantajm1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jayantajm1" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uc3vqxf8ckrxgui8urtlzrtg" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayantajm1/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3vqxf8ckrxgui8urtlzrtg" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@hostelguy" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayantajm1/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uc3vqxf8ckrxgui8urtlzrtg" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/jayantamardi4455" target="blank"><img align="center" src="https://raw.githubusercontent.com/jayantajm1/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jayantamardi4455" height="30" width="40" /></a>
 </p>
 
