@@ -1,4 +1,4 @@
-![Header](https://github.com/jayantajm1/jayantajm1/blob/main/pexels-photo-11035547.png)
+![Header](https://github.com/jayantajm1/jayantajm1/blob/main/Hey%20I%E2%80%99m%20Jayanta.png)
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Jayanta Mardi</span></h1>
 <h3 align="center">Full Stack & Backend Developer • .NET Core | Angular | PostgreSQL</h3>
