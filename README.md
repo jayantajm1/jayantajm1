@@ -13,7 +13,7 @@
 
 I'm a Full Stack Developer specializing in ASP.NET Core, Angular, and PostgreSQL, with a strong focus on backend engineering, clean API design, and secure system architecture. I enjoy building scalable applications, improving performance, and implementing reliable, production-grade features used by thousands of users. I work with modern technologies such as microservices, RabbitMQ, Docker, and OpenTelemetry, and follow principles of clean architecture, testing, and high-quality software craftsmanship. I also bring leadership experience from serving as Design Lead at ByteMonk-GTC, where I contributed to community events, hackathons, and collaborative tech initiatives. My goal is to grow as a strong Backend / Full Stack .NET Engineer and continue building impactful systems at scale.
 
-📌 **Portfolio:** 👉 **[https://jayanta-github-io.vercel.app/](https://jayanta-github-io.vercel.app/)**
+📌 **Portfolio:** 👉 **[https://jayanta-github-io.vercel.app/](https://jayantajm1.github.io/jayantajm1protfolio/)**
 
 ---
 
